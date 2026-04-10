@@ -21,6 +21,7 @@ Data fetched includes:
 * High-definition (HD) images
 
 API Link: https://api.nasa.gov/
+Project-Name: NASA Mission Explorer
 
 ## ✨ Features (Planned)
 
@@ -66,4 +67,8 @@ nasa-mission-explorer/
 
 ## 👨‍💻 Author
 
-Your Name
+
+
+
+Your Name:
+Mohd Kaif
